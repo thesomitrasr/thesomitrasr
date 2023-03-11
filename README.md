@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm SomitraSR from Timidlly</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">2x Founder and CEO at 
+@timidlly | We create digital solutions for startups, innovative tech companies and organizations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesomitrasr&label=Profile%20views&color=0e75b6&style=flat" alt="thesomitrasr" /> </p>
 
